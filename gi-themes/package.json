@@ -1,0 +1,52 @@
+{
+  "name": "gi-themes",
+  "displayName": "G.I. Themes",
+  "description": "G.I. Themes for Visual Studio Code.",
+  "version": "0.0.1",
+  "publisher": "General Intelligence",
+  "license": "MIT",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gengence/gi-vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/gengence/gi-vscode-themes/issues"
+  },
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "themes",
+    "light",
+    "dark",
+    "reaper",
+    "seraph",
+    "clown",
+    "gengence",
+    "general intelligence"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "G.I. Reaper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gi-reaper.json"
+      },
+      {
+        "label": "G.I. Seraph",
+        "uiTheme": "vs",
+        "path": "./themes/gi-seraph.json"
+      },
+      {
+        "label": "G.I. Clown",
+        "uiTheme": "vs",
+        "path": "./themes/gi-clown.json"
+      }
+    ]
+  }
+}

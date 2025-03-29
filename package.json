@@ -1,0 +1,15 @@
+{
+  "name": "gi-vscode-themes",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@vscode/vsce": "^3.3.1",
+    "generator-code": "^1.11.8",
+    "yo": "^5.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
