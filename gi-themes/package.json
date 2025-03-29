@@ -6,6 +6,10 @@
   "publisher": "gengence",
   "license": "MIT",
   "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gengence/gi-vscode-themes"
