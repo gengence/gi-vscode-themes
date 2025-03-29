@@ -46,11 +46,6 @@
         "label": "G.I. Seraph",
         "uiTheme": "vs",
         "path": "./themes/gi-seraph.json"
-      },
-      {
-        "label": "G.I. Clown",
-        "uiTheme": "vs",
-        "path": "./themes/gi-zclown.json"
       }
     ]
   }
