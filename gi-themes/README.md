@@ -1,4 +1,4 @@
-# gi-vscode-themes
+# General Intelligence's VS Code Themes
 
 ## Credits
 
