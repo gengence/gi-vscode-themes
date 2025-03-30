@@ -2,7 +2,7 @@
   "name": "gi-themes",
   "displayName": "G.I. Themes",
   "description": "G.I. Themes for Visual Studio Code.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "publisher": "gengence",
   "license": "MIT",
   "icon": "logo.png",
