@@ -1,5 +1,5 @@
 {
-  "name": "gi-vscode-themes",
+  "name": "themes",
   "module": "index.ts",
   "type": "module",
   "private": true,

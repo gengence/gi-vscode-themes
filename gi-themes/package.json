@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gengence/gi-vscode-themes"
+    "url": "https://github.com/gengence/themes"
   },
   "homepage": "https://gengence.com",
   "bugs": {
-    "url": "https://github.com/gengence/gi-vscode-themes/issues"
+    "url": "https://github.com/gengence/themes/issues"
   },
   "engines": {
     "vscode": "^1.98.0"

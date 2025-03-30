@@ -1,4 +1,4 @@
-# gi-vscode-themes
+# themes
 
 ## Credits
 

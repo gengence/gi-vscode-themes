@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "gi-vscode-themes",
+      "name": "themes",
       "devDependencies": {
         "@types/bun": "latest",
         "@vscode/vsce": "^3.3.1",
